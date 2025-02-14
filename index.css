@@ -381,7 +381,7 @@ body {
 .Ily {
     margin: auto;
     width: 90%;
-    height: 270px;
+    height: 500px;
     top: 4%;
     border-radius: 10px;
     box-shadow: 0 2px 26px rgba(0, 0, 0, .12);
@@ -400,7 +400,11 @@ body {
     text-align: center;
 }
 
-.para4 {
+.para6 {
+    text-align: center;
+}
+
+.para7 {
     text-align: center;
 }
 
